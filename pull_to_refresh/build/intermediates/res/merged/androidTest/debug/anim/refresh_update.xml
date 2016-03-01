@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<animation-list  
+    xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:oneshot="false" >
+    <item android:drawable="@drawable/refresh_update1" android:duration="200"/>
+    <item android:drawable="@drawable/refresh_update2" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update3" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update4" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update5" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update6" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update7" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update8" android:duration="200"/>  
+    <item android:drawable="@drawable/refresh_update9" android:duration="200"/> 
+</animation-list>  
+<!-- From: file:/F:/AndroidFiles/PullToRefreshScrollViewDemo/pull_to_refresh/src/main/res/anim/refresh_update.xml --><!-- From: file:/F:/AndroidFiles/PullToRefreshScrollViewDemo/pull_to_refresh/build/intermediates/bundles/debug/res/anim/refresh_update.xml -->

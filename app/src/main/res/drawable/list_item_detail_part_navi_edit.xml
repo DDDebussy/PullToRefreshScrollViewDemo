@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 发布-我的故事列表-写故事图片 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@mipmap/list_item_detail_part_navi_edit_c" />
+    <item android:state_enabled="true" android:drawable="@mipmap/list_item_detail_part_navi_edit_n_c" />
+    <item android:state_enabled="false" android:drawable="@mipmap/list_item_detail_part_navi_edit_c" />
+    <item android:drawable="@mipmap/list_item_detail_part_navi_edit_n_c" />
+</selector>
